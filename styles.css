@@ -35,7 +35,7 @@ img {
   left: 0;
   width: 100%;
   height: 50px;
-  background-color: blue;
+  background-color: green;
   box-shadow: 0 2px 0 white;
   z-index: 10;
 }
@@ -93,7 +93,7 @@ img {
     top: 0;
     left: 0;
     width: 100%;
-    background: rgb(184, 19, 19);
+    background: green;
   }
 .projects {  color: white;  background-color: rgb(14, 14, 87); text-align: center; font-size: 2rem; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
 img { display: block;}
